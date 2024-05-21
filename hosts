@@ -6126,7 +6126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-v3.conductrics.com
 
 # [confsettings.com]
-0.0.0.0 mobile.confsettings.com
+<!-- 0.0.0.0 mobile.confsettings.com -->
 
 # [congstar.de]
 0.0.0.0 banner.congstar.de
